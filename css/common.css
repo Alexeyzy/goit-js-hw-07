@@ -57,7 +57,7 @@ a {
   background-color: #f6f6fe;
   border-radius: 8px;
   padding: 16px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
 .item h2 {
@@ -107,7 +107,7 @@ input#name-input {
   padding: 8px 12px;
   font-size: 16px;
   color: #2e2f42;
-  border: 2px solid #808080; 
+  border: 2px solid #808080;
   border-radius: 4px;
   outline: none;
   margin-bottom: 16px;
@@ -117,20 +117,21 @@ input#name-input {
 input#name-input:hover {
   border-color: #000000;
 }
+
 input#name-input:focus {
   border-color: #808080;
 }
 
- h1 {
+h1 {
   font-size: 24px;
   font-weight: 600;
   margin: 0;
   color: #2E2F42;
   line-height: 32px;
   letter-spacing: 4%;
- } 
+}
 
- /* Task - 4*/
+/* Task - 4*/
 .login-form {
   display: flex;
   flex-direction: column;
@@ -151,7 +152,7 @@ input#name-input:focus {
 
 .login-form input {
   padding: 8px;
-  border: 2px solid #808080; 
+  border: 2px solid #808080;
   border-radius: 5px;
   font-size: 14px;
   font-weight: 200;
@@ -168,19 +169,21 @@ input#name-input:focus {
   cursor: pointer;
   width: 86px;
 }
+
 .login-form button:hover {
-  background-color: #6C8CFF; 
+  background-color: #6C8CFF;
 }
 
 .login-form input:hover {
   border-color: #000000;
 }
+
 .login-form input:focus {
-  border-color: #808080; 
+  border-color: #808080;
 }
 
- /* Task - 5*/
- .widget {
+/* Task - 5*/
+.widget {
   background-color: white;
   border-radius: 12px;
   padding: 40px;
@@ -210,11 +213,11 @@ input#name-input:focus {
 }
 
 .change-color:hover {
-  background-color: #6C8CFF; 
+  background-color: #6C8CFF;
 }
 
- /* Task - 6*/
- #controls {
+/* Task - 6*/
+#controls {
   background-color: #f5f6ff;
   padding: 20px;
   border-radius: 12px;
